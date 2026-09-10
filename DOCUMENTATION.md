@@ -2,13 +2,13 @@
 
 ```yaml
 # ---------- POSTGRES ----------
-POSTGRES_USER= "sudhanshu"
+POSTGRES_USER= "Rutuja Ulpe"
 POSTGRES_PASSWORD= "flights"
 POSTGRES_DB= "flightsdb"
 
 
 # ---------- AIRFLOW ADMIN ----------
-AIRFLOW_ADMIN_USER= "sudhanshu"
+AIRFLOW_ADMIN_USER= "Rutuja Ulpe"
 AIRFLOW_ADMIN_FIRSTNAME= "sudhanshu"
 AIRFLOW_ADMIN_LASTNAME= "gusain"
 AIRFLOW_ADMIN_EMAIL= "admin@example.com"
